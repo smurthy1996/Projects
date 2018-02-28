@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="12" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="assets" tilewidth="32" tileheight="32">
+  <image source="TownAssets.png" width="192" height="96"/>
+ </tileset>
+ <layer name="gray" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkzkSACAIA+34/49tLCzwGBVdlZ1J5xECSHAoSJLDwPvBwvvB4oV+iKLaGTI3eMxp5X47xLq0ead5tOJ0rT9m3mJXDiPZ7+oVaSct/p2prXTHIifiXpZmo0cr37IQ3d9qj/R66f40RaMmBrQ=
+  </data>
+ </layer>
+ <layer name="Finish" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJAAAIA0FHcP9prbUXLe4gfeAjAAAA9uX1ARo9ftHjXo7xSwFbDwBx
+  </data>
+ </layer>
+ <objectgroup name="Coins" width="100" height="12"/>
+ <objectgroup name="Mine" width="100" height="12"/>
+ <objectgroup name="PowerUp" width="100" height="12"/>
+ <layer name="blue" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkksOABAMRJu4/52t7FrfoYO+ZHbIfIiIpBCFCt4+QrEHo2IPLr2wh0btjLffl/Zo9X67GHNZePv6YY8fO2fZY6b70fMobyd7ObHHSjbrzo6eduVH/4te0O+hYfeHhj0vuz+NDCNuCx0=
+  </data>
+ </layer>
+</map>

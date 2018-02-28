@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="12" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="assets" tilewidth="32" tileheight="32">
+  <image source="TownAssets.png" width="192" height="96"/>
+ </tileset>
+ <layer name="gray" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztlzsOACAIxdi4/43dTfxARN7QJkyiGLqAm5kTMgE64EMLfGiBDy3woQU+tKjywUzXBzN2L792nqi3rOfIvVPu6jxaQ2EXfZmfebPy37s6M/iI9yHTv9v8AcQECKU=
+  </data>
+ </layer>
+ <layer name="Finish" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJAAAIA0FHcP9prbUXLe4gfeAjAAAA9uX1ARo9ftHjXo7xSwFbDwBx
+  </data>
+ </layer>
+ <layer name="blue" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkUkOACAMAr35/x/7AhdITecAyZysWmCMiKQZMKQPFumDRfpgkT5YpA8Wv/q4qds3lYpsHHX7puJkU6Efuzle1Hu32d254rlT6i6v869vulk49yiZn9Tdhzqr7uH8swDSahgD
+  </data>
+ </layer>
+ <objectgroup name="Coins" width="100" height="12"/>
+ <objectgroup name="Mine" width="100" height="12"/>
+ <objectgroup name="PowerUp" width="100" height="12"/>
+</map>

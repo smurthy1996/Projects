@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="12" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="assets" tilewidth="32" tileheight="32">
+  <image source="TownAssets.png" width="192" height="96"/>
+ </tileset>
+ <layer name="gray" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztVkEKACAI8+b/f9wHKtBWrtpghyB0axW6mblIRaEeyoMLyoMLyoMLyoMLL+VRMZ+g+53Qv6t21Xw46onSgvbT0zlbR+pWvedo3xWdq/6i55/xhPwPInuR9z3r+xXe4vUGjT/l0WMDWuEJvQ==
+  </data>
+ </layer>
+ <layer name="Finish" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJAAAIA0FHcP9prbUXLe4gfeAjAAAAduX1ARo9ftHjXo7xTwFczwBx
+  </data>
+ </layer>
+ <layer name="blue" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkTkOADEIA5Hy/z+nR2lAHIZ4JBdbhAWPCEHjMO2hD6zQB1boAyv0gZVNPjQT+6vYP2u2psN7dJcZ97z2jPCjqerf05N3z4j79Fvrd2X/ljlR/7bM2cxv96Iz2ccFQhMJ0A==
+  </data>
+ </layer>
+ <objectgroup name="Coins" width="100" height="12">
+  <object x="2537" y="142" width="41" height="41">
+   <ellipse/>
+  </object>
+  <object x="2372" y="175" width="48" height="34">
+   <ellipse/>
+  </object>
+  <object x="2233" y="251" width="57" height="26">
+   <ellipse/>
+  </object>
+  <object x="1485" y="157" width="50" height="59">
+   <ellipse/>
+  </object>
+  <object x="1217" y="221" width="50" height="53">
+   <ellipse/>
+  </object>
+  <object x="738" y="175" width="38" height="50">
+   <ellipse/>
+  </object>
+  <object x="379" y="231" width="78" height="78">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Mine" width="100" height="12">
+  <object x="806" y="237" width="28" height="48">
+   <ellipse/>
+  </object>
+  <object x="1053" y="291" width="35" height="29">
+   <ellipse/>
+  </object>
+  <object x="2052" y="283" width="46" height="39">
+   <ellipse/>
+  </object>
+  <object x="2740" y="225" width="34" height="32">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PowerUp" width="100" height="12">
+  <object x="1788" y="227" width="38" height="36">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="TownAssets" tilewidth="32" tileheight="32">
+  <image source="TownAssets.png" width="192" height="96"/>
+ </tileset>
+ <layer name="Grey" width="50" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEOwCAIBEBv/f+P+wIPrWwJzUyyV0ETZC0AAAAAAAAAAAAAAAAAAGCaS0S2AZii+7/c/Zvd/VTcY/r++MMe7NrnlW+QmK83dU8k5uukZlf/T+p3nFV5j8rzUv2n637Vv0gyN7hPEdU=
+  </data>
+ </layer>
+ <layer name="Blue" width="50" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0sEJwDAMA8BA99+5E/ThRk5Segf+WjJ4DAAAAAAAAAAAAAAAAAAAAAD4t6txTve1vk9mb+j8gZU/s7t76o9mck+54W2XxI7kDdUOqT3J/pX8Hbuq0pmr+3fnruoPnW4G8gKY
+  </data>
+ </layer>
+</map>

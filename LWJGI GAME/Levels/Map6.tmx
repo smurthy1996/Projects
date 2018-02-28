@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="12" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="assets" tilewidth="32" tileheight="32">
+  <image source="TownAssets.png" width="192" height="96"/>
+ </tileset>
+ <layer name="gray" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztlzEKACAMxG7r/3/sA1xU1GZIINsVhExWklKU0o89WNiDhT1Y2IOFPVjYg4c9WJz2WLm5tXm9/XGzs1POP7z7PTo7AHDHCPk=
+  </data>
+ </layer>
+ <layer name="Finish" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJAAAIA0FHcP9prbUXLe4gfeAjAAAAduX1ARo9ftHjXo7xTwFczwBx
+  </data>
+ </layer>
+ <layer name="blue" width="100" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztkTEKADAIxIT+/8/+oAhVmyGBbN5iIoTG0e/ag6U9WNqDpT1Y2oOlPVjag+VLj8qm62b6dmNT/YWI3EnK8Qok
+  </data>
+ </layer>
+ <objectgroup name="Mine" width="100" height="12">
+  <object x="288" y="256" width="72" height="66">
+   <ellipse/>
+  </object>
+  <object x="508" y="254" width="78" height="62">
+   <ellipse/>
+  </object>
+  <object x="800" y="262" width="94" height="56">
+   <ellipse/>
+  </object>
+  <object x="1176" y="242" width="72" height="74">
+   <ellipse/>
+  </object>
+  <object x="1526" y="250" width="68" height="66">
+   <ellipse/>
+  </object>
+  <object x="1872" y="242" width="92" height="72">
+   <ellipse/>
+  </object>
+  <object x="2298" y="246" width="104" height="72">
+   <ellipse/>
+  </object>
+  <object x="2670" y="238" width="66" height="72">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Coins" width="100" height="12">
+  <object x="406" y="214" width="72" height="78">
+   <ellipse/>
+  </object>
+  <object x="668" y="194" width="90" height="84">
+   <ellipse/>
+  </object>
+  <object x="964" y="198" width="78" height="74">
+   <ellipse/>
+  </object>
+  <object x="1338" y="200" width="62" height="88">
+   <ellipse/>
+  </object>
+  <object x="1656" y="206" width="84" height="64">
+   <ellipse/>
+  </object>
+  <object x="2094" y="228" width="84" height="52">
+   <ellipse/>
+  </object>
+  <object x="2510" y="220" width="66" height="70">
+   <ellipse/>
+  </object>
+  <object x="2796" y="230" width="116" height="54">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PowerUp" width="100" height="12">
+  <object x="1062" y="252" width="80" height="56">
+   <ellipse/>
+  </object>
+  <object x="1448" y="246" width="74" height="56">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
